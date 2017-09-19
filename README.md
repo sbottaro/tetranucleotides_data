@@ -2,7 +2,7 @@
 This repository contains experimental data for AAAA, GACC, UUUU and CCCC tetranucleotides.
 Each folder contains scalar couplings, NOE distances as well as missing NOE distances.
 
-Data are here conveniently reported as text files, but were measured and published here:
+Data are here conveniently reported as text files, but were measured and published in the following papers:
 
 - Tubbs, J. D., Condon, D. E., Kennedy, S. D., Hauser, M., Bevilacqua, P. C., & Turner, D. H
 "The nuclear magnetic resonance of CCCC RNA reveals a right-handed helix, and revised parameters for 
